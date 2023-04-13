@@ -36,15 +36,7 @@
   }
 
 
-
-
-  .flex-con{
-    display: flex;
-  }
-
-
   
-
 
 .imagegallery{
     text-align: right;
@@ -131,6 +123,7 @@ p{
     height: auto;
   }
   
+<<<<<<< HEAD
   div.desc {
     padding: 15px;
     text-align: center;
@@ -165,3 +158,5 @@ p{
     clear: both;
   }
 
+=======
+>>>>>>> dd79dc7d97270b649c7df799223a09c6124551b1
